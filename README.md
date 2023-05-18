@@ -1,2 +1,2 @@
 # Python
-Repository consiste of some useful python scripts
+Repository consists of some useful python scripts
